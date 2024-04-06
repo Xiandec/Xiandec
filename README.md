@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋 I`m Timur
+### Python and swift developer
+[![Header](https://github.com/Xiandec/Xiandec/blob/main/gif/lofirabbit.gif)](https://t.me/xiandec)
+### ![Static Badge](https://img.shields.io/badge/this%20gif%20is%20clickable_⬆️%20-a?style=for-the-badge&color=%23060b14)
 
 <!--
 **Xiandec/Xiandec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
