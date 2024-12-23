@@ -1,5 +1,5 @@
 # Hi there 👋 I`m Timur
-### Python and swift developer
+### Python and js, swift developer
 [![Header](https://github.com/Xiandec/Xiandec/blob/main/gif/lofirabbit.gif)](https://t.me/xiandec)
 ### ![Static Badge](https://img.shields.io/badge/this%20gif%20is%20clickable_⬆️%20-a?style=for-the-badge&color=%23060b14)
 
